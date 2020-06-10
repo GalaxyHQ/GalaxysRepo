@@ -1,0 +1,44 @@
+Package: glxy.glxyrepo.cercube
+Name: THIS DOESNT WORK
+Version: 5.2
+Architecture: iphoneos-arm
+Description: this is a test
+Maintainer: Galaxy
+Author: Galaxy
+Section: Tweaks
+Depends: 
+Filename: debs/glxy.glxyrepo.cercube_5.1.18_iphoneos-arm.deb
+Size: 4279360
+MD5sum: 2ce9ac47034d82dc1f3dba8e60f3c01c
+SHA1: a0b89f5118e2c29729be5a6c73257a84540a26ab
+SHA256: 325809aaa9bb995b457ad7f90b6448a85001e173284787fff3489a40ee7a0f6a
+
+Package: com.glxy.galaxytheme
+Name: GalaxyTheme
+Version: 1.0
+Architecture: iphoneos-arm
+Description: GalaxyTheme v1
+Maintainer: GalaxyHQ
+Author: GalaxyHQ
+Section: Themes
+Depends: com.spark.snowboard
+Filename: debs/GalaxyTheme.deb
+Size: 7536
+MD5sum: 1333168fa730a9a2ed6147332d555405
+SHA1: 619e9ac1bf1ce914bb6b0876cadedcaf58910de5
+SHA256: 524c29b5a2629db1e5eaf67e7ad6a4ce0fb17a9b390ceed32cfec12cc8628655
+
+Package: com.glxy.shortytheme
+Name: Shorty
+Version: 1.0
+Architecture: iphoneos-arm
+Description: SHORTY IS SOOOO FLUFFY [Made for SnowBoard]
+Maintainer: GalaxyHQ
+Author: GalaxyHQ
+Section: Themes
+Depends: com.spark.snowboard
+Filename: debs/ShortyTheme.deb
+Size: 2339148
+MD5sum: ea399367c951f4610bcce0f7787aaf2d
+SHA1: 0f3577775a66fa9905d7f7b1bff6c90f850bf8d8
+SHA256: abc1b894c719bcfc46f1a428882e93005b76cbe6f10320a225eaba70b4c6334a
